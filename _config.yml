@@ -1,2 +1,3 @@
 theme: jekyll-theme-minimal
-url: https://hmeng.github.io/asking-the-right-questions
+url: https://hmeng.github.io
+baseurl: /asking-the-right-questions

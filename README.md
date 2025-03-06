@@ -12,6 +12,7 @@ Most people don't get the answers they're looking for because they haven't yet a
 
 1. **Curated Lists and Templates:** Practical, actionable questions you can immediately use in your personal and professional life.
 2. **Frameworks:** A guide to understanding and formulating powerful, effective questions on your own, ensuring you always know how to ask the right question.
+3. **Practical Applications:** How to apply the right questions in specific contexts, such as leadership, problem-solving, personal growth, and more.
 
 ---
 

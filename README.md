@@ -34,6 +34,10 @@ Most people don't get the answers they're looking for because they haven't yet a
   - Identifying assumptions
   - Diagnosing root causes
   - Shifting perspectives
+- **Part 3: Applying the Right Questions**
+  - Questions in specific contexts
+  - Building a question-centered culture
+  - Measuring the impact of questions
 - **Conclusion:** Integrating the Right Questions into Your Life
 
 ---

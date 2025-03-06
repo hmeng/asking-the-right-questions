@@ -112,7 +112,6 @@
 - **Appendix A:** 100 Most Powerful Questions
 - **Appendix B:** Question Templates for Common Situations
 - **Appendix C:** Question Journal Templates
-- **Appendix D:** Resources for Further Learning
 
 ## Back Matter
 - **Index**

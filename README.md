@@ -2,6 +2,8 @@
 
 **Unlock better answers by mastering the art of asking the right questions.**
 
+[Table of Contents]({% link table_of_contents.md %})
+
 ---
 
 ### What is this book about?

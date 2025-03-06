@@ -1,14 +1,8 @@
 # Preface
 
-It was during a particularly challenging strategic planning session that I had my epiphany about questions. As a facilitator working with a leadership team stuck in circular debates about their market strategy, I noticed something: every time we made progress, it wasn't because someone provided a brilliant answer. It was because someone asked a question that shifted how everyone thought about the problem.
-
-One question in particular transformed the conversation that day. After hours of debate about which competitors to focus on, someone quietly asked, "What if we're defining our business too narrowly?" That single question unlocked possibilities the team hadn't considered and ultimately led to a breakthrough strategy that expanded their market.
-
-That moment crystallized something I'd observed throughout my career: the quality of our answers is directly proportional to the quality of our questions. Yet despite their importance, most of us spend far more time crafting and refining answers than we do formulating better questions.
-
 ## Why I Wrote This Book
 
-This book was born from twenty years of observing how questions shape outcomes—in boardrooms and living rooms, in therapy sessions and team meetings, in personal reflections and public debates. I've witnessed how the right question at the right moment can:
+This book was born from years of observing how questions shape outcomes—in boardrooms and living rooms, in therapy sessions and team meetings, in personal reflections and public debates. I've witnessed how the right question at the right moment can:
 
 - Dissolve seemingly intractable conflicts
 - Reveal opportunities invisible moments before
@@ -48,17 +42,4 @@ This book is for anyone who recognizes that the quality of their questions shape
 
 In essence, this book is for the curious—those who believe there's always more to learn, discover, and understand about themselves and the world around them.
 
-## A Personal Note
-
-My journey to understanding the power of questions began with my grandmother, an extraordinary woman with only an eighth-grade education but wisdom that exceeded that of many PhDs I've encountered. She rarely told me what to think or do, but instead asked questions that guided me toward my own insights.
-
-When I was struggling with a difficult decision as a teenager, she didn't offer advice. Instead, she asked, "What would you want to be true a year from now, regardless of what you decide today?" That question has stayed with me for decades, helping me navigate countless decisions since.
-
-I hope the questions in this book become trusted companions on your journey—guiding you toward greater clarity, wisdom, and possibility in all areas of your life.
-
 Let's begin asking better questions together.
-
-With gratitude,
-
-[Your Name]  
-Spring 2023 

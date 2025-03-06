@@ -113,11 +113,6 @@
 - **Appendix B:** Question Templates for Common Situations
 - **Appendix C:** Question Journal Templates
 
-## Back Matter
-- **Index**
-- **Acknowledgments**
-- **About the Author**
-
 ## Format & Style Guidelines
 
 ### Chapter Structure

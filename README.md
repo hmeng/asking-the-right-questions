@@ -2,7 +2,7 @@
 
 **Unlock better answers by mastering the art of asking the right questions.**
 
-[Table of Contents]({% link asking_the_right_questions/table_of_contents.md %})
+[Table of Contents]({% post_url table_of_contents %})
 
 ---
 
@@ -28,19 +28,23 @@ Most people don't get the answers they're looking for because they haven't yet a
 
 - **Introduction:** Why Questions Matter
 - **Part 1: Question Toolbox**
-  - Decision-making
-  - Problem-solving
-  - Leadership
-  - Personal growth and reflection
+  - Chapter 1: Decision-Making Questions
+  - Chapter 2: Problem-Solving Questions  
+  - Chapter 3: Leadership Questions
+  - Chapter 4: Personal Growth Questions
 - **Part 2: Framework for Discovering the Right Questions**
-  - Identifying assumptions
-  - Diagnosing root causes
-  - Shifting perspectives
+  - Chapter 5: Identifying Assumptions
+  - Chapter 6: Diagnosing Root Causes
+  - Chapter 7: Shifting Perspectives
+  - Chapter 8: Question Formulation Techniques
 - **Part 3: Applying the Right Questions**
-  - Questions in specific contexts
-  - Building a question-centered culture
-  - Measuring the impact of questions
+  - Chapter 9: Questions in Specific Contexts
+  - Chapter 10: Building a Question-Centered Culture
 - **Conclusion:** Integrating the Right Questions into Your Life
+- **Appendices:**
+  - Appendix A: 100 Most Powerful Questions
+  - Appendix B: Question Templates for Common Situations
+  - Appendix C: Question Journal Templates
 
 ---
 

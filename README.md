@@ -2,7 +2,7 @@
 
 **Unlock better answers by mastering the art of asking the right questions.**
 
-[Table of Contents]({% post_url table_of_contents %})
+[Table of Contents]({% link /table-of-contents %})
 
 ---
 

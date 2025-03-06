@@ -29,23 +29,23 @@ Most people don't get the answers they're looking for because they haven't yet a
 
 - **Introduction:** Why Questions Matter
 - **Part 1: Question Toolbox**
-  - Chapter 1: Decision-Making Questions
-  - Chapter 2: Problem-Solving Questions  
-  - Chapter 3: Leadership Questions
-  - Chapter 4: Personal Growth Questions
+  - [Chapter 1: Decision-Making Questions](./chapter1_decision_making.md)
+  - [Chapter 2: Problem-Solving Questions](./chapter2_problem_solving.md)  
+  - [Chapter 3: Leadership Questions](./chapter3_leadership_questions.md)
+  - [Chapter 4: Personal Growth Questions](./chapter4_personal_growth.md)
 - **Part 2: Framework for Discovering the Right Questions**
-  - Chapter 5: Identifying Assumptions
-  - Chapter 6: Diagnosing Root Causes
-  - Chapter 7: Shifting Perspectives
-  - Chapter 8: Question Formulation Techniques
+  - [Chapter 5: Identifying Assumptions](./chapter5_identifying_assumptions.md)
+  - [Chapter 6: Diagnosing Root Causes](./chapter6_diagnosing_root_causes.md)
+  - [Chapter 7: Shifting Perspectives](./chapter7_shifting_perspectives.md)
+  - [Chapter 8: Question Formulation Techniques](./chapter8_question_formulation.md)
 - **Part 3: Applying the Right Questions**
-  - Chapter 9: Questions in Specific Contexts
-  - Chapter 10: Building a Question-Centered Culture
-- **Conclusion:** Integrating the Right Questions into Your Life
+  - [Chapter 9: Questions in Specific Contexts](./chapter9_specific_contexts.md)
+  - [Chapter 10: Building a Question-Centered Culture](./chapter10_question_centered_culture.md)
+- **Conclusion:** [Integrating the Right Questions into Your Life](./conclusion.md)
 - **Appendices:**
-  - Appendix A: 100 Most Powerful Questions
-  - Appendix B: Question Templates for Common Situations
-  - Appendix C: Question Journal Templates
+  - [Appendix A: 100 Most Powerful Questions](./appendix_a_100_powerful_questions.md)
+  - [Appendix B: Question Templates for Common Situations](./appendix_b_question_templates.md)
+  - [Appendix C: Question Journal Templates](./appendix_c_question_journal_templates.md)
 
 ---
 

@@ -74,3 +74,5 @@ Each chapter includes:
 Whether you read this book from cover to cover or reference specific sections as needed, you'll discover that mastering the art of asking the right questions is perhaps the most powerful meta-skill you can develop.
 
 Let's begin the journey of better questions—and through them, better answers, better decisions, and a better life. 
+
+Next Page: [Chapter 1: Decision-Making Questions](./chapter1_decision_making.md)

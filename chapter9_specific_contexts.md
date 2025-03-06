@@ -157,3 +157,5 @@ By adapting this general progression to specific contexts, you can transform typ
 5. "What's the most important question I should ask but am avoiding?"
 
 In the next chapter, we'll explore how to build questioning into organizational culture, moving beyond individual skill to create environments where powerful questions become the norm. 
+
+Next Page: [Chapter 10: Building a Question-Centered Culture](./chapter10_question_centered_culture.md)

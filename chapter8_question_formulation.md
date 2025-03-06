@@ -230,3 +230,5 @@ Remember that questions are tools—their effectiveness depends on selecting the
 5. "Question your questions—regularly analyze your questioning patterns for effectiveness."
 
 In the next chapter, we'll transition from examining questions themselves to applying them in specific high-stakes contexts, exploring how to adapt questioning techniques to particular situations and challenges. 
+
+Next Page: [Chapter 9: Questions in Specific Contexts](./chapter9_specific_contexts.md)

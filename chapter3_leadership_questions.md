@@ -139,3 +139,5 @@ This framework shifts leadership from a directive approach ("Here's what you sho
 5. "What have we learned, and what will we do differently next time?"
 
 In the next chapter, we'll explore how questions can accelerate personal growth, helping you break through limitations, develop better habits, and find deeper purpose and meaning. 
+
+Next Page: [Chapter 4: Personal Growth Questions](./chapter4_personal_growth.md)

@@ -159,3 +159,5 @@ A single question, asked at the right moment and engaged with honestly, can chan
 I invite you to find the questions that will transform your thinking, your relationships, and your life. The answers you discover will be uniquely yours, but the art of questioning is a journey we share.
 
 What question will you live with tomorrow? 
+
+Next Page: [Appendix A: Questioning Techniques](./appendix_a_questioning_techniques.md)

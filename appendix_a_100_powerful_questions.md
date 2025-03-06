@@ -140,3 +140,5 @@ For maximum benefit:
 5. **Document insights**: Record meaningful revelations that emerge from these questions for future reflection.
 
 Remember that the most powerful question is ultimately the one that generates insight, clarity, and possibility in your specific situation. Use these as inspiration, not prescription. 
+
+Next Page: [Appendix B: Question Templates](./appendix_b_question_templates.md)

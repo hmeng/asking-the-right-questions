@@ -166,3 +166,5 @@ This framework ensures you're solving the right problem rather than treating sym
 5. "If we successfully address this cause, would it prevent the problem from recurring?"
 
 In the next chapter, we'll explore how questions can help us shift perspectives, allowing us to see situations through different lenses and discover insights that remain hidden from a single viewpoint. 
+
+Next Page: [Chapter 7: Shifting Perspectives](./chapter7_shifting_perspectives.md)

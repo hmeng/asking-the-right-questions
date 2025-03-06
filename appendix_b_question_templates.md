@@ -316,3 +316,5 @@ These templates are structured as conversation guides, not rigid scripts. To use
    - Schedule follow-up actions based on the discoveries made
 
 Remember that these templates provide structure and inspiration, but the most powerful questions often emerge organically from genuine curiosity and attentive listening. 
+
+Next Page: [Appendix C: Question Journal Templates](./appendix_c_question_journal_templates.md)

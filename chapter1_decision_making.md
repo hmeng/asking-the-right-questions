@@ -133,3 +133,5 @@ Remember that the initial question you ask frames everything that follows. Befor
 5. "What would success look like, and how would we measure it?"
 
 In the next chapter, we'll explore how questions can transform your approach to problem-solving, allowing you to address challenges at their root rather than merely treating symptoms. 
+
+Next Page: [Chapter 2: Problem-Solving Questions](./chapter2_problem_solving.md)

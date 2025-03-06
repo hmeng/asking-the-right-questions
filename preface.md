@@ -43,3 +43,5 @@ This book is for anyone who recognizes that the quality of their questions shape
 In essence, this book is for the curious—those who believe there's always more to learn, discover, and understand about themselves and the world around them.
 
 Let's begin asking better questions together.
+
+Next Page: [Introduction](./introduction.md)

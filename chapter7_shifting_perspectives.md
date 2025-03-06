@@ -166,3 +166,5 @@ This framework helps ensure you're not trapped in a single perspective that limi
 5. "What new approach becomes possible when I combine these different perspectives?"
 
 In the next chapter, we'll explore how to craft questions themselves more effectively, examining the techniques that make certain questions particularly powerful for generating insight and catalyzing change. 
+
+Next Page: [Chapter 8: Question Formulation Techniques](./chapter8_question_formulation.md)

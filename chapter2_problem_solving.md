@@ -147,3 +147,5 @@ This framework ensures that you don't waste resources solving the wrong problem 
 5. "What's the smallest first step we could take to move forward?"
 
 In the next chapter, we'll explore how questions can transform leadership, allowing you to inspire others, build trust, and develop your team's capabilities through the art of asking rather than telling. 
+
+Next Page: [Chapter 3: Leadership Questions](./chapter3_leadership_questions.md)

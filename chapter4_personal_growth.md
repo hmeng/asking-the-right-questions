@@ -136,3 +136,5 @@ This questioning framework helps ensure that personal development efforts are bo
 5. "What contribution do I feel called to make with my unique gifts?"
 
 In the next chapter, we'll transition from the Question Toolbox to building frameworks for discovering the right questions. We'll begin by exploring how to identify and examine the assumptions that shape our thinking and limit our possibilities. 
+
+Next Page: [Chapter 5: Identifying Assumptions](./chapter5_identifying_assumptions.md)

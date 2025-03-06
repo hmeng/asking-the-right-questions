@@ -161,3 +161,5 @@ Remember that the goal isn't to eliminate all assumptions—that's impossible. R
 5. "What if everything I 'know' about this situation is wrong?"
 
 In the next chapter, we'll explore how to use questions to diagnose root causes, moving beyond surface symptoms to address the deeper sources of problems and opportunities. 
+
+Next Page: [Chapter 6: Diagnosing Root Causes](./chapter6_diagnosing_root_causes.md)

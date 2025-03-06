@@ -1,7 +1,7 @@
 # Asking the Right Questions
 ## Table of Contents
 
-### Preface
+### [Preface](./preface.md)
 
 ### [Introduction: Why Questions Matter](./introduction.md)
 - The Power of Questions in Human History

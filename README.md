@@ -27,8 +27,9 @@ Most people don't get the answers they're looking for because they haven't yet a
 
 ### Structure of the Book
 
-- **Introduction:** Why Questions Matter
-- **Part 1: Question Toolbox**
+- [**Preface**](./preface.md)
+- [**Introduction: Why Questions Matter**](./introduction.md)
+- [**Part 1: Question Toolbox**](./chapter1_decision_making.md)
   - [Chapter 1: Decision-Making Questions](./chapter1_decision_making.md)
   - [Chapter 2: Problem-Solving Questions](./chapter2_problem_solving.md)  
   - [Chapter 3: Leadership Questions](./chapter3_leadership_questions.md)
@@ -41,7 +42,7 @@ Most people don't get the answers they're looking for because they haven't yet a
 - **Part 3: Applying the Right Questions**
   - [Chapter 9: Questions in Specific Contexts](./chapter9_specific_contexts.md)
   - [Chapter 10: Building a Question-Centered Culture](./chapter10_question_centered_culture.md)
-- **Conclusion:** [Integrating the Right Questions into Your Life](./conclusion.md)
+- [**Conclusion: Integrating the Right Questions into Your Life**](./conclusion.md)
 - **Appendices:**
   - [Appendix A: 100 Most Powerful Questions](./appendix_a_100_powerful_questions.md)
   - [Appendix B: Question Templates for Common Situations](./appendix_b_question_templates.md)

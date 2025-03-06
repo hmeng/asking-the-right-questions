@@ -2,7 +2,7 @@
 
 **Unlock better answers by mastering the art of asking the right questions.**
 
-[Table of Contents]({% link /table-of-contents %})
+[Table of Contents]({% link /table_of_contents.md %})
 
 ---
 
